@@ -1,5 +1,5 @@
 {
-  "name": "library",
+  "name": "@filtering/firstmodule",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,5 @@
   "devDependencies": {
     "typescript": "^4.9.5"
   },
-  "repository": "git@github.com:rjritik1137/firstlibrary.git"
+  "repository": "git+https://github.com/rjritik1137/firstlibrary.git"
 }
