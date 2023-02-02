@@ -5,7 +5,7 @@
     "module": "lib/es6/index.js",
     "repository": {
         "type": "git",
-        "url": "git@github.com:rjritik1137/firstlibrary.git"
+        "url": "git+https://github.com/rjritik1137/firstlibrary.git"
     },
     "author": "Ritik Jain <rjritik1137@gmail.com>",
     "license": "MIT"
