@@ -1,0 +1,12 @@
+{
+    "name":"@filtering/firstmodule",
+    "version":"1.0.0",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:rjritik1137/firstlibrary.git"
+    },
+    "author": "Ritik Jain <rjritik1137@gmail.com>",
+    "license": "MIT"
+}
