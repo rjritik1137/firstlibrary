@@ -1,15 +1,25 @@
 {
-  "name": "@filtering/firstmodule",
+  "name": "my-first-library",
   "version": "1.0.0",
-  "description": "",
+  "description": "is it first library?",
   "main": "index.js",
   "scripts": {
     "build": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjritik1137/firstlibrary.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "ritik jain",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjritik1137/firstlibrary/issues"
+  },
+  "homepage": "https://github.com/rjritik1137/firstlibrary#readme",
   "devDependencies": {
     "typescript": "^4.9.5"
-  },
-  "repository": "git+https://github.com/rjritik1137/firstlibrary.git"
+  }
 }

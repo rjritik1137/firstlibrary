@@ -1,12 +1,23 @@
 {
-    "name":"@filtering/firstmodule",
-    "version":"1.0.0",
-    "main": "lib/es5/index.js",
-    "module": "lib/es6/index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/rjritik1137/firstlibrary.git"
-    },
-    "author": "Ritik Jain <rjritik1137@gmail.com>",
-    "license": "MIT"
+  "name": "library-first-1234",
+  "version": "1.0.0",
+  "description": "is this first library?",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjritik1137/firstlibrary.git"
+  },
+  "author": "Ritik Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjritik1137/firstlibrary/issues"
+  },
+  "homepage": "https://github.com/rjritik1137/firstlibrary#readme"
 }
